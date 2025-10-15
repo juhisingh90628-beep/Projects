@@ -1,0 +1,18 @@
+     .container {
+        width: 800px;
+        height: 500px;
+        background-color: blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .leftbox {
+        width: 350px;
+        height: 250px;
+        /* background-color: pink; */
+      }
+      .rightbox {
+        width: 350px;
+        height: 250px;
+        /* background-color: rgb(12, 155, 36); */
+      }
