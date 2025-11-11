@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100vh;
+}
+.container{
+    width:400px;
+    text-align: center;
+    background-color: rgb(18, 75, 125);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
+.header{
+    margin-bottom:10px;
+    padding-top:10px;
+}
+.textarea{
+    width:90%;
+    height: 200px;
+    padding:10px;
+    margin-bottom: 10px;
+    border-radius:10px;
+
+}
+
+button{
+    width:90%;
+    padding:10px;
+    border-radius:10px;
+    background-color: rgb(201, 215, 215);
+    cursor:pointer;
+    color:black;
+    font-size:1.2rem;
+}
